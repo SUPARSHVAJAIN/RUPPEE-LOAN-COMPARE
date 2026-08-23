@@ -1,0 +1,6 @@
+{
+  "name": "Rupee Loan Comparison",
+  "description": "A comprehensive Indian loan comparison app with real-time interest rate estimations via Gemini, supporting major banks, small finance banks, and NBFCs, with eligibility filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
